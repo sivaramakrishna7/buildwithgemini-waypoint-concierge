@@ -2,6 +2,8 @@
 
 ![Waypoint Concierge Live Demo](./agent_demo.gif)
 
+> 🎬 *Watch the full video recording with AI-generated lo-fi soundtrack: [`agent_demo.webm`](./agent_demo.webm)*
+
 Waypoint Concierge is an intelligent, personalized travel planning assistant built with the **Agent Development Kit (ADK)**, **Gemini 2.5 Flash**, **Vertex AI Agent Engine**, and the **A2A (Agent-to-Agent) Protocol**.
 
 It provides travelers with curated destination discovery, activity suggestions, day-by-day itinerary management, sandboxed budget calculations, scenic postcard generation, and rich interactive A2UI card layouts.
